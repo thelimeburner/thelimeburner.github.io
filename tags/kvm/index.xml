@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kvm on Lucas Chaufournier</title>
+    <link>/tags/kvm/</link>
+    <description>Recent content in kvm on Lucas Chaufournier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/kvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KVM Tips</title>
+      <link>/post/kvm/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/kvm/</guid>
+      <description>Useful Tips KVM can sometimes be tricky when used on a headless server. To fix it so you can use curses, you need to edit the following things in the vm.
+ Modify /etc/default/grub  GRUB_CMDLINE_LINUX_DEFAUL=&amp;quot;fbcon=map:99 text&amp;quot; GRUB_TERMINAL=console  Run update-grub
+ Blacklist vga16fb  echo &#39;install vga16fb /bin/true&#39; &amp;gt;/etc/modprobe.d/graphics-disabled.conf  Troubleshooting For networking, it is useful to use a tap device. Make sure the /etc/qemu-ifup script has switch set to the bridge device.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Lucas Chaufournier</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Lucas Chaufournier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Ahmed Ali-Eldin</title>
+      <link>/authors/-ahmed-ali-eldin/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/-ahmed-ali-eldin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don Towsley</title>
+      <link>/authors/don-towsley/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/don-towsley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erich Nahum</title>
+      <link>/authors/erich-nahum/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/erich-nahum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franck Le</title>
+      <link>/authors/franck-le/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/franck-le/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucas Chaufournier</title>
+      <link>/authors/lucas-chaufournier/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/lucas-chaufournier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prashant Shenoy</title>
+      <link>/authors/prashant-shenoy/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/prashant-shenoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prateek Sharma</title>
+      <link>/authors/prateek-sharma/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/prateek-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y.C. Tay</title>
+      <link>/authors/y.c.-tay/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/y.c.-tay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

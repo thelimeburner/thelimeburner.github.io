@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Chaufournier on Lucas Chaufournier</title>
+    <link>/</link>
+    <description>Recent content in Lucas Chaufournier on Lucas Chaufournier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Containers and Virtual Machines at Scale A Comparative Study</title>
+      <link>/publication/containers-vm/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/containers-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Transparent Virtual Machine Migration in Distributed Edge Clouds</title>
+      <link>/publication/fast-migrations/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fast-migrations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of Multi-Path TCP: For Data Center and Cloud Workloads</title>
+      <link>/publication/mptcp/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mptcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Edge Clouds</title>
+      <link>/project/edge-clouds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/edge-clouds/</guid>
+      <description>&lt;p&gt;My thesis will likely focus on edge clouds and their performance aspects. We are currently looking at modeling different properties of edge clouds and how they compare to standard data centers. This work is still early in its development. A brief summary of edge clouds can be found on our poster. To view it, click on the PDF button above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Work</title>
+      <link>/post/how-i-work/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/how-i-work/</guid>
+      <description>
+
+&lt;h1 id=&#34;how-i-work&#34;&gt;How I Work&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Current Linux Distribution:&lt;/strong&gt; Ubuntu Server 18.04&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current Workstation:&lt;/strong&gt; 15&amp;rdquo; 2016 Macbook Pro w/ 27&amp;rdquo; Monitor&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical Specs:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ram:&lt;/strong&gt; 16gb&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hard Disk:&lt;/strong&gt; 512gb&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CPU:&lt;/strong&gt; Intel i7 2.6GHz Intel Core&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Text Editor:&lt;/strong&gt; Visual Studio Code and Vim for servers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Browser:&lt;/strong&gt; Google Chrome&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Music Player:&lt;/strong&gt; Spotify&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Word Processor:&lt;/strong&gt; Google Docs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Note Taking:&lt;/strong&gt; Paper and Whiteboards&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Notebook:&lt;/strong&gt; Giving the rocketbook everlast a try for a bit, Paper for everything else&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;To do list:&lt;/strong&gt; Index Cards, trying to migrate to bullet journal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calendar:&lt;/strong&gt; Google Calendar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KVM Tips</title>
+      <link>/post/kvm/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/kvm/</guid>
+      <description>
+
+&lt;h1 id=&#34;useful-tips&#34;&gt;Useful Tips&lt;/h1&gt;
+
+&lt;p&gt;KVM can sometimes be tricky when used on a headless server. To fix it so you can use curses, you need to edit the following things in the vm.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Modify /etc/default/grub&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;GRUB_CMDLINE_LINUX_DEFAUL=&amp;quot;fbcon=map:99 text&amp;quot;
+
+GRUB_TERMINAL=console
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Run update-grub&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Blacklist vga16fb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;echo &#39;install vga16fb /bin/true&#39; &amp;gt;/etc/modprobe.d/graphics-disabled.conf
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h1&gt;
+
+&lt;p&gt;For networking, it is useful to use a tap device. Make sure the /etc/qemu-ifup script has switch set to the bridge device. It normally tries to act smart and guess it based on your ip routes. This unfortunately is not helpful if you want a private network.&lt;/p&gt;
+
+&lt;h1 id=&#34;useful-commands&#34;&gt;Useful Commands&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Connect to qemu.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virsh connect qemu:///system
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Check VM info.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virsh dominfo GUESTNAME
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;List VMs.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virsh list
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Display VM CPU &amp;amp; Memory Usage.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virt-top
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;START&lt;/strong&gt; | &lt;strong&gt;STOP&lt;/strong&gt; | &lt;strong&gt;REBOOT&lt;/strong&gt; | &lt;strong&gt;SUSPEND&lt;/strong&gt; | &lt;strong&gt;RESUME VM&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virsh START|STOP|REBOOT|SUSPEND|RESUME GUESTNAME
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Connect to VM Console.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virsh console GUESTNAME
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clone a VM.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ virt-clone --connect=qemu:///system -o SRCGUEST -n NEWHOST -f /path/to/image/newhost.qcow2 
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LXC: Linux Containers Commands</title>
+      <link>/post/lxc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/lxc/</guid>
+      <description>
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I use the name c1 in the following commands. Replace c1 with the container you wish to use.&lt;/li&gt;
+&lt;li&gt;To view actual stats of a container you can see:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;/sys/fs/cgroup/memory/lxc/c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;replace memory with a cgroup&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;installing&#34;&gt;Installing&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Install from the ubuntu package manager&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo apt-get install lxc uidmap cgroup-lite
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check if system is configured properly&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo lxc-checkconfig
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;commands&#34;&gt;Commands&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create a Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-create -n c1 -t ubuntu
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This creates container c1 from the template ubuntu(replace as you see fit with an available template/usr/share/lxc/templates)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Start a Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-start -n c1 -d
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This starts container c1 as a daemon(-d)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;List Containers&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-ls --fancy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Access Console&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-console -n c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To exit use ctrl-a q&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Access Root Filesystem(similar to chroot)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-attach -n c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;View All Details of Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-info -n c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stop a Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-stop -n c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clone a Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-clone c1 c2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Make sure to stop the machine before cloning&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Snapshot Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-snapshot -n c1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;View Snapshots of a Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-snapshot -n c1 -L
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Restore From a Snapshot&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-snapshot -n c1 -r snap2 c2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If it is backed by a directory, you have to restore to a new container name&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Delete Container&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;# lxc-destroy -n c1
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tmux Usage</title>
+      <link>/post/tmux/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/tmux/</guid>
+      <description>
+
+&lt;h1 id=&#34;installation&#34;&gt;Installation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To install tmux, use the provided package manager. Ubuntu is shown below:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo apt-get install tmux
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;commands&#34;&gt;Commands&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shortcut (Used to invoke all commands for tmux)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;ctrl-b command
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Show Sessions &lt;code&gt;ctrl-b S&lt;/code&gt; or &lt;code&gt;$ tmux ls&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a New Session&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ tmux new -s session_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Attach to an Existing Session&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ tmux a -t session
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kill a Session&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;$ tmux kill-session -t session-name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;commands-1&#34;&gt;Commands&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command Code&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;help&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;s&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;list sessions&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;$&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rename current session&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;d&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;detach current session&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;c&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;create new window&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;,&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;rename window&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;scroll through history&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;w&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;list windows&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;%&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;split vertically&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;ldquo;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;split horizontally&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;n&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;change to next window&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;change to previous window&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;o&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;toggle between panes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0-9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;select window 0 - 9&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;h&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;move left&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;j&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;move below&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;move right&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;k&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;move above&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;q&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;show pane #&amp;rsquo;s&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;}&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;swap with next pane&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;{&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;swap with prev pane&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;!&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;break pane out of window&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;q #&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;switch to pane number&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;x&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;kill pane&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;t&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;show time in pane&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;z&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;min/max pane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;customizing-tmux&#34;&gt;Customizing tmux&lt;/h2&gt;
+
+&lt;p&gt;You can customize tmux by modifying the &lt;code&gt;~/.tmux.conf&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;For example if you wish to keybind the sync command, then you would place the following line in your tmux file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bind e setw synchronize-panes
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This keybinds Ctl-b e to toggle syncing panes on and off&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example-slides/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lxc on Lucas Chaufournier</title>
+    <link>/tags/lxc/</link>
+    <description>Recent content in lxc on Lucas Chaufournier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/lxc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LXC: Linux Containers Commands</title>
+      <link>/post/lxc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/lxc/</guid>
+      <description>Notes:  I use the name c1 in the following commands. Replace c1 with the container you wish to use. To view actual stats of a container you can see:  /sys/fs/cgroup/memory/lxc/c1  replace memory with a cgroup
+Installing  Install from the ubuntu package manager
+$ sudo apt-get install lxc uidmap cgroup-lite  Check if system is configured properly
+$ sudo lxc-checkconfig   Commands  Create a Container  # lxc-create -n c1 -t ubuntu  This creates container c1 from the template ubuntu(replace as you see fit with an available template/usr/share/lxc/templates)</description>
+    </item>
+    
+  </channel>
+</rss>

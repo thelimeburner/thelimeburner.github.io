@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tmux on Lucas Chaufournier</title>
+    <link>/tags/tmux/</link>
+    <description>Recent content in tmux on Lucas Chaufournier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Work</title>
+      <link>/post/how-i-work/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/how-i-work/</guid>
+      <description> How I Work Current Linux Distribution: Ubuntu Server 18.04
+Current Workstation: 15&amp;rdquo; 2016 Macbook Pro w/ 27&amp;rdquo; Monitor
+Technical Specs:
+ Ram: 16gb Hard Disk: 512gb CPU: Intel i7 2.6GHz Intel Core  Applications:
+ Text Editor: Visual Studio Code and Vim for servers Web Browser: Google Chrome Music Player: Spotify Word Processor: Google Docs Note Taking: Paper and Whiteboards Research Notebook: Giving the rocketbook everlast a try for a bit, Paper for everything else To do list: Index Cards, trying to migrate to bullet journal Calendar: Google Calendar  </description>
+    </item>
+    
+    <item>
+      <title>Tmux Usage</title>
+      <link>/post/tmux/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/tmux/</guid>
+      <description>Installation  To install tmux, use the provided package manager. Ubuntu is shown below:  $ sudo apt-get install tmux  Commands  Shortcut (Used to invoke all commands for tmux)  ctrl-b command   Show Sessions ctrl-b S or $ tmux ls
+ Create a New Session
+  $ tmux new -s session_name   Attach to an Existing Session  $ tmux a -t session   Kill a Session  $ tmux kill-session -t session-name  Commands    Command Code Description     ?</description>
+    </item>
+    
+  </channel>
+</rss>
