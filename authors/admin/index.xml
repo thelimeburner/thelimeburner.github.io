@@ -61,7 +61,7 @@ $ sudo lxc-checkconfig   Commands  Create a Container  # lxc-create -n c1 -t ubu
     <item>
       <title></title>
       <link>/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Feb 2019 09:59:12 -0500</pubDate>
       
       <guid>/author/admin/</guid>
       <description>I am a fourth year MS/PhD student working in the LASS Lab with Prashant Shenoy at the University of Massachusetts Amherst. My area of focus is in cloud computing, IOT and distributed systems, though my interests cross into many areas across computing. Currently we are evaluating edge clouds and their benefits towards smart cities.
