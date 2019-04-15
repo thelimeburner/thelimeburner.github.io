@@ -64,8 +64,8 @@ $ sudo lxc-checkconfig   Commands  Create a Container  # lxc-create -n c1 -t ubu
       <pubDate>Tue, 19 Feb 2019 09:59:12 -0500</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>I am a fourth year MS/PhD student working in the LASS Lab with Prashant Shenoy at the University of Massachusetts Amherst. My area of focus is in cloud computing, IOT and distributed systems, though my interests cross into many areas across computing. Currently we are evaluating edge clouds and their benefits towards smart cities.
-Apart from cloud computing, I enjoy studying how technology can interact with people and the surrounding world.</description>
+      <description>I am a software engineer who focuses on cloud computing, distributed systems, and data science, though my interests cross into many areas across computing. I thrive in environments that involve collaborating and working towards solving creative problems. Currently I am evaluating edge clouds and their benefits towards smart cities.
+I also enjoy studying how technology can interact with people and the surrounding world. I am particularly interested in how technology can be used to improve people&amp;rsquo;s lives and help make an impact on society.</description>
     </item>
     
   </channel>
