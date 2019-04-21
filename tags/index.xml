@@ -12,29 +12,11 @@
     
     
     <item>
-      <title>Containers</title>
-      <link>/tags/containers/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Edge Computing</title>
       <link>/tags/edge-computing/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MEC</title>
-      <link>/tags/mec/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/mec/</guid>
       <description></description>
     </item>
     
@@ -68,9 +50,18 @@
     <item>
       <title>containers</title>
       <link>/tags/containers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/tags/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEC</title>
+      <link>/tags/mec/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/mec/</guid>
       <description></description>
     </item>
     

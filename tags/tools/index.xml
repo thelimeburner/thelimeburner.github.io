@@ -17,11 +17,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/how-i-work/</guid>
-      <description> How I Work Current Linux Distribution: Ubuntu Server 18.04
-Current Workstation: 15&amp;rdquo; 2016 Macbook Pro w/ 27&amp;rdquo; Monitor
-Technical Specs:
- Ram: 16gb Hard Disk: 512gb CPU: Intel i7 2.6GHz Intel Core  Applications:
- Text Editor: Visual Studio Code and Vim for servers Web Browser: Google Chrome Music Player: Spotify Word Processor: Google Docs Note Taking: Paper and Whiteboards Research Notebook: Giving the rocketbook everlast a try for a bit, Paper for everything else To do list: Index Cards, trying to migrate to bullet journal Calendar: Google Calendar  </description>
+      <description>A basic description of my current working tools</description>
     </item>
     
     <item>
@@ -30,9 +26,7 @@ Technical Specs:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/kvm/</guid>
-      <description>Useful Tips KVM can sometimes be tricky when used on a headless server. To fix it so you can use curses, you need to edit the following things in the vm.
- Modify /etc/default/grub  GRUB_CMDLINE_LINUX_DEFAUL=&amp;quot;fbcon=map:99 text&amp;quot; GRUB_TERMINAL=console  Run update-grub
- Blacklist vga16fb  echo &#39;install vga16fb /bin/true&#39; &amp;gt;/etc/modprobe.d/graphics-disabled.conf  Troubleshooting For networking, it is useful to use a tap device. Make sure the /etc/qemu-ifup script has switch set to the bridge device.</description>
+      <description>Some tips for interacting with KVM</description>
     </item>
     
     <item>
@@ -41,10 +35,7 @@ Technical Specs:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/lxc/</guid>
-      <description>Notes:  I use the name c1 in the following commands. Replace c1 with the container you wish to use. To view actual stats of a container you can see:  /sys/fs/cgroup/memory/lxc/c1  replace memory with a cgroup
-Installing  Install from the ubuntu package manager
-$ sudo apt-get install lxc uidmap cgroup-lite  Check if system is configured properly
-$ sudo lxc-checkconfig   Commands  Create a Container  # lxc-create -n c1 -t ubuntu  This creates container c1 from the template ubuntu(replace as you see fit with an available template/usr/share/lxc/templates)</description>
+      <description>Basic Commands for Linux Containers</description>
     </item>
     
     <item>
@@ -53,9 +44,7 @@ $ sudo lxc-checkconfig   Commands  Create a Container  # lxc-create -n c1 -t ubu
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/tmux/</guid>
-      <description>Installation  To install tmux, use the provided package manager. Ubuntu is shown below:  $ sudo apt-get install tmux  Commands  Shortcut (Used to invoke all commands for tmux)  ctrl-b command   Show Sessions ctrl-b S or $ tmux ls
- Create a New Session
-  $ tmux new -s session_name   Attach to an Existing Session  $ tmux a -t session   Kill a Session  $ tmux kill-session -t session-name  Commands    Command Code Description     ?</description>
+      <description>Basic Commands for TMUX</description>
     </item>
     
   </channel>
